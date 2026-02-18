@@ -2,6 +2,12 @@
 
 🌏 Seattle (originally from China) | Building the future of education online | Ex-Consultant · Ex-Retail Startup Survivor
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI-powered-blueviolet?style=flat)
+```
+
 
 我一边觉得创业很吓人，一边很坚定地创业。
 (Terrified of building something. Doing it anyway.)

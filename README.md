@@ -28,11 +28,11 @@ Now doing it myself, which is somehow scarier and more fun
 ## A Few True Things About Me
 
 🇨🇳 Born in China, built in Seattle
-🎨 Genuinely obsessed with making art accessible to people who don't own turtlenecks
+😇 Genuinely obsessed with making things accessible to people who don't own turtlenecks
 😅 Runs on equal parts ambition and imposter syndrome
 💬 Bilingual thoughts: half my best ideas happen in Chinese
 
 
-## Find Me
+## Reach Me
 chuyong.anna.liu@gmail.com
 — Slightly naive, but for real.

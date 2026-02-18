@@ -35,4 +35,4 @@ Now doing it myself, which is somehow scarier and more fun
 
 ## Reach Me
 chuyong.anna.liu@gmail.com
-— Slightly naive, but for real.
+— She's slightly naive, but for real.

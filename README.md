@@ -8,7 +8,7 @@
 ![AI](https://img.shields.io/badge/AI-powered-blueviolet?style=flat)
 
 
-> 我一边觉得创业很吓人，一边很坚定地创业。  
+> 一边觉得创造很吓人，一边坚定创造。  
 > *(Terrified of building something. Doing it anyway.)*  
 > Part-time adult. Full-time believer in slightly naive ideas.
 
